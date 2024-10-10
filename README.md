@@ -5,6 +5,8 @@ The stakeholders of Superstore wanted to get a more detailed snapshot of how the
 
 Dataset used 
 
+
+
  Dashboard Objectives
  
 •	Composition of the Workforce: Understand the composition of the workforce by department, education field, business travel frequency, gender, job role, and age group.
@@ -28,6 +30,7 @@ Process
 
 
 Dashboard
+
 
 Project Insights
 Key Metrics:

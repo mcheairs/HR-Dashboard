@@ -6,6 +6,7 @@ The stakeholders of Superstore wanted to get a more detailed snapshot of how the
 Dataset used 
 
  Dashboard Objectives
+ 
 •	Composition of the Workforce: Understand the composition of the workforce by department, education field, business travel frequency, gender, job role, and age group.
 •	HR KPIs: Analyze employee count, average salary, average monthly salary, average age, average salary hike, average Job satisfaction score, and gender ratio.
 •	Identify trends and patterns in employee data across different parameters like Education, Age group, and Department.
@@ -17,12 +18,15 @@ Dataset used
 •	Compare the attrition rates in different departments such as Sales, R&D, and HR.
 
 Process
+
 1.	Import and clean data.
 2.	Create data model and relationships.
 3.	Define key performance indicators and DAX measures.
 4.	Design dashboard layout and visualizations.
 5.	Add interactivity and functionality to the dashboard.
 6.	Draw insights from data.
+
+
 Dashboard
 
 Project Insights
@@ -34,6 +38,7 @@ Key Metrics:
 •	Average Salary Hike: 15.23%
 •	Average Job Satisfaction: 2.78/4
 •	Gender Ratio: 68% male
+
 Key Attrition Metrics:
 •	Total Attrition Count: 237 employees
 •	Attrition Rate: 16%
@@ -43,21 +48,26 @@ Key Attrition Metrics:
 Education and Age Distribution:
 •	Education: The majority of employees have degrees in Life Sciences (381) and Medical (316). Marketing, Technical Degrees, and HR have lower representation.
 •	Age Group: The largest segment (490 employees) is in the 26-35 age range, followed by 36-45 (425 employees). The younger age group (18-25) has the least representation.
+
 Job Role Breakdown:
 •	Highest Average Salary: Manufacturing Directors ($17.2K), Research Directors ($15.9K).
 •	Highest Job Satisfaction: Research Scientist (2.83/4), Sales Executive (2.8/4).
 •	Overtime: Higher in jobs like Sales Representatives (79%) and Laboratory Technicians (33%).
+
 Attrition by Department:
 •	Highest Attrition Rate: Sales (21%) and Human Resources (19%)
 •	Lowest Attrition Rate: Research & Development (14%)
+
 Job Role Attrition:
 •	Sales Representatives have the highest attrition (40%), followed by Sales Executives (17%), and Research Directors (14%).
+
 Factors Influencing Attrition:
 •	Job Satisfaction: Attrition decreases as job satisfaction improves. The rate drops from 23% (for satisfaction level 1) to 11% (satisfaction level 4).
 •	Gender: Males (17%) have a slightly higher attrition rate than females (15%).
 •	Age: The 18-25 group shows the highest attrition rate (67%), followed by 26-35 (50%).
 •	Work-Life Balance: Employees with poor work-life balance show higher attrition rates.
 •	Income: Attrition increases with lower income and decreases as income grows.
+
 Business Travel Impact: Employees who travel frequently show lower attrition rates (8%) compared to non-traveling employees (20%).
 
 
